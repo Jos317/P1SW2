@@ -1,0 +1,15 @@
+"filename", "language", "YAML", "Dart", "comment", "blank", "total"
+"c:\Proyectos en flutter\Sw2P1\lib\main.dart", "Dart", 0, 4, 0, 0, 4
+"c:\Proyectos en flutter\Sw2P1\lib\models\cliente_model.dart", "Dart", 0, 12, 0, 2, 14
+"c:\Proyectos en flutter\Sw2P1\lib\presentation\info_screen\info_screen.dart", "Dart", 0, 60, 0, 9, 69
+"c:\Proyectos en flutter\Sw2P1\lib\presentation\success_screen\helpers\generate_pdf.dart", "Dart", 0, 134, 24, 8, 166
+"c:\Proyectos en flutter\Sw2P1\lib\presentation\success_screen\helpers\save_file_mobile.dart", "Dart", 0, 25, 2, 0, 27
+"c:\Proyectos en flutter\Sw2P1\lib\presentation\success_screen\success_screen.dart", "Dart", 0, 33, 0, 0, 33
+"c:\Proyectos en flutter\Sw2P1\lib\providers\cliente_provider.dart", "Dart", 0, 12, 0, 5, 17
+"c:\Proyectos en flutter\Sw2P1\lib\providers\products_provider.dart", "Dart", 0, 3, 0, 1, 4
+"c:\Proyectos en flutter\Sw2P1\lib\providers\providers.dart", "Dart", 0, 1, 0, 0, 1
+"c:\Proyectos en flutter\Sw2P1\lib\providers\purchased_products_provider.dart", "Dart", 0, 3, 0, 1, 4
+"c:\Proyectos en flutter\Sw2P1\lib\providers\total_provider.dart", "Dart", 0, 3, 0, 1, 4
+"c:\Proyectos en flutter\Sw2P1\lib\theme\custom_button_style.dart", "Dart", 0, 12, 1, 1, 14
+"c:\Proyectos en flutter\Sw2P1\pubspec.yaml", "YAML", 3, 0, 0, 0, 3
+"Total", "-", 3, 302, 27, 28, 360
